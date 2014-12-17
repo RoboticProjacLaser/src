@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/ROLABS/ros_node/wiimote2moteurs/build/devel/setup.sh

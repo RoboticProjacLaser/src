@@ -1,0 +1,17 @@
+<package>
+  <description brief="wiimote2moteurs">
+
+     wiimote2moteurs
+
+  </description>
+  <author>pi</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/wiimote2moteurs</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
